@@ -1,4 +1,4 @@
 # firstrepo
 Its my first repository in gitHub.
 <br>
-I am Farhan Ali.
+I am Farhan Khan.
